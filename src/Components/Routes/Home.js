@@ -15,7 +15,7 @@ function Home() {
         title="Your Journey Begins Here"
         text="Choose Your Favourite Destination."
         buttontext="Travel Plan"
-        url="/"
+        url="/Curated_Calendar"
         btnClass="show"
       />
       <Destination />
