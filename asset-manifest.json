@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Curated_Calendar/static/css/main.f6922575.css",
-    "main.js": "/Curated_Calendar/static/js/main.79e2cdc3.js",
+    "main.js": "/Curated_Calendar/static/js/main.8a5709e7.js",
     "static/js/787.713faa5b.chunk.js": "/Curated_Calendar/static/js/787.713faa5b.chunk.js",
     "static/media/11.jpg": "/Curated_Calendar/static/media/11.e5705ed91a9a6a128e50.jpg",
     "static/media/9.jpg": "/Curated_Calendar/static/media/9.707ef12c55b17088a3d9.jpg",
@@ -16,11 +16,11 @@
     "static/media/night.jpg": "/Curated_Calendar/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/Curated_Calendar/index.html",
     "main.f6922575.css.map": "/Curated_Calendar/static/css/main.f6922575.css.map",
-    "main.79e2cdc3.js.map": "/Curated_Calendar/static/js/main.79e2cdc3.js.map",
+    "main.8a5709e7.js.map": "/Curated_Calendar/static/js/main.8a5709e7.js.map",
     "787.713faa5b.chunk.js.map": "/Curated_Calendar/static/js/787.713faa5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6922575.css",
-    "static/js/main.79e2cdc3.js"
+    "static/js/main.8a5709e7.js"
   ]
 }
