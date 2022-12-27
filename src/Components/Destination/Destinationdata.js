@@ -1,9 +1,5 @@
 import { Component } from "react";
 import "./Destination.css";
-import descimg1 from "../Asset/1.jpg";
-import descimg2 from "../Asset/2.jpg";
-import descimg3 from "../Asset/3.jpg";
-import descimg4 from "../Asset/4.jpg";
 class Destinationdata extends Component {
   render() {
     return (

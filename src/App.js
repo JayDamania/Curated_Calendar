@@ -1,6 +1,5 @@
-import { Routes } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import { Route } from "react-router-dom";
 import Home from "./Components/Routes/Home";
 import Services from "./Components/Routes/Services";
 import About from "./Components/Routes/About";
