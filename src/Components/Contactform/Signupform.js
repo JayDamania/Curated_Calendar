@@ -10,7 +10,9 @@ function Signupform() {
         <input placeholder="UserName" />
         <input placeholder="Email" />
         <input placeholder="Password" type="password" />
-        <button>Sign Up</button>
+        <button type="button" onClick={() => undefined}>
+          Sign Up
+        </button>
       </form>
     </div>
   );

@@ -13,7 +13,7 @@ function Signup() {
         cName="hero-mid"
         Heroimg={singupimg}
         title="The Whole World Awaits"
-        url="/"
+        url="#"
         btnClass="hide"
       />
       <Signupform />

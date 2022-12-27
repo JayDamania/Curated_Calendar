@@ -13,7 +13,7 @@ function About() {
         cName="hero-mid"
         Heroimg={Aboutimg}
         title="About"
-        url="/"
+        url="#"
         btnClass="hide"
       />
       <Aboutus />

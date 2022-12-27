@@ -13,7 +13,7 @@ function Services() {
         cName="hero-mid"
         Heroimg={Servicesimg}
         title="Services"
-        url="/"
+        url="#"
         btnClass="hide"
       />
       <Trip />

@@ -13,7 +13,7 @@ function Contactus() {
         cName="hero-mid"
         Heroimg={contactimg}
         title="Contact Us"
-        url="/"
+        url="#"
         btnClass="hide"
       />
       <Contactform />
